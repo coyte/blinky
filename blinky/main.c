@@ -5,7 +5,7 @@
 #include <avr/io.h>
 #include <util/delay.h>
 
-#include <include/lcd.h>
+#include <lcd.h>
 
 int main(void)
 {
